@@ -1,3 +1,5 @@
 # Notes_project
 
-Hi, this pet project was created for people, who are excited about note book. I used UIKit, SnapKit, CoreData.
+1. Swift
+2. Core Data
+3. SnapKit
